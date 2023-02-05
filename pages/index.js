@@ -27,7 +27,7 @@ export default function Home({ datas }) {
           >Written by
             <a
               className='text-blue-500'
-              href='github.com/ahmadalfarizi'
+              href='https://github.com/Syafiq1331'
             > Syafiq Rizky Fauzi
             </a>
           </p>
