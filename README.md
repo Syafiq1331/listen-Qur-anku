@@ -10,6 +10,15 @@ Listen Qur'anku is a web application that allows you to listen to the Qur'an in 
 - DaisyUI
 - Al-Qur'an API dari [equran](https://equran.id/)
 
+## Features
+- [ ] Listen to the Qur'an by Surah
+- [X] Listen to the Qur'an by Juz
+- [ ] Listen to the Qur'an by Page
+- [ ] Listen to the Qur'an by Ayat
+- [ ] Search the Qur'an by Surah
+
+ 
+
 ## Installation
 1. Clone this repository
 2. Install dependencies
